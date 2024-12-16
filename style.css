@@ -57,5 +57,9 @@ img{
 Footer{
     margin-top: 10px;
     overflow: hidden;
+    background-color: lightgray;
+    width: 100%;
+    height: 50px;
+    display: flex;
 
 }
