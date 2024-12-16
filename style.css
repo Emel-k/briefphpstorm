@@ -31,7 +31,10 @@ h1{
     margin: 10px;
     font-size: 48px;
 }
+body{
+    background-color: gainsboro;
 
+}
 section{
     display: flex;
     justify-content: center;
